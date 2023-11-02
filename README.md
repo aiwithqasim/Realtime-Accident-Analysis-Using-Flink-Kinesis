@@ -30,4 +30,4 @@ This Project uses the US car accidents dataset which includes a few of the follo
 
 **Architecture Diagram**
 
-![Architecture Diagram](https://github.com/aiwithqasim/Realtime-Accident-Analysis-Using-Flink-Kinesis/blob/dev/Architecture.jpg)
+![Architecture Diagram](https://github.com/aiwithqasim/Realtime-Accident-Analysis-Using-Flink-Kinesis/blob/main/README.md)
